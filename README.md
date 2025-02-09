@@ -26,3 +26,12 @@
 
 ## Find file 
 	find / -name instal*
+
+# By size  (.) Represent current directory
+	find . -size -1M    
+	find . -size +1M
+	find /home -size -1M
+	find /home -size +1M
+
+# By Modified Time here 4 means 4 days
+	find / -mtime 4
