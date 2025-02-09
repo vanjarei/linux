@@ -18,3 +18,9 @@
 ## LS Show all file with details
 	 ls -altF
 
+## See Current user
+	whoami
+
+## Change Password 
+	passwd
+
