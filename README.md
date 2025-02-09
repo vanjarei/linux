@@ -24,3 +24,5 @@
 ## Change Password 
 	passwd
 
+## Find file 
+	find / -name instal*
