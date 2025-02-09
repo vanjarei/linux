@@ -15,6 +15,6 @@
 ## Make file Executable 
 	sudo chmod +x install.sh
 
-## LS Show all
+## LS Show all file with details
 	 ls -altF
 
